@@ -9,7 +9,7 @@
   <a href="https://github.com/OandONE/fast_rub"><img src="https://img.shields.io/badge/Fast_Rub-Rubika_Framework-blue?style=flat-square"></a>
   <a href="https://github.com/OandONE/fast_tel"><img src="https://img.shields.io/badge/Fast_Tel-Telegram_Framework-blue?style=flat-square"></a>
   <a href="https://blog.parssource.ir"><img src="https://img.shields.io/badge/Blog-ParsSource-orange?style=flat-square"></a>
-  <a href="https://pypi.org/user/OandONE/"><img src="https://img.shields.io/badge/PyPI-OandONE-3776AB?style=flat-square&logo=pypi"></a>
+  <a href="https://pypi.org/user/zere_one/"><img src="https://img.shields.io/badge/PyPI-OandONE-3776AB?style=flat-square&logo=pypi"></a>
 </p>
 
 ---
@@ -117,7 +117,7 @@ Personal website & blog.
 ## 📫 Contact
 
 - Email: `mohamadhosein159159@gmail.com`
-- PyPI: [pypi.org/user/OandONE](https://pypi.org/user/OandONE/)
+- PyPI: [pypi.org/user/zere_one](https://pypi.org/user/zere_one/)
 - Blog: [blog.parssource.ir](https://blog.parssource.ir)
 - Rubika Channel: `@Fast_Rub`
 - Telegram & Rubika: `@O_and_ONE_01`
