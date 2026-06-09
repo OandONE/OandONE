@@ -106,7 +106,7 @@ Personal website & blog.
 
 > "Build tools that solve problems you've suffered from.  
 > Then share them so others don't suffer."  
-> "Security always begins where you no longer feel the need to explain anything."
+> "Every expert was once a beginner ..."
 
 - Fast comes first — both in speed and development
 - Minimal dependencies — less is more
