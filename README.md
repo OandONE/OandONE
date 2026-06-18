@@ -21,10 +21,10 @@ Creator of open-source bot frameworks.
 Building fast, lightweight, and scalable tools.
 
 - 🔭 Currently working on: **Fast Rub**, **Fast Tel**
-- 🌱 Learning: ASP.NET Core, EF Core, Blazor
+- 🌱 Learning: EF Core, Blazor, Java
 - 📝 Blog: [blog.parssource.ir](https://blog.parssource.ir)
 - 📫 Contact: `mohamadhosein159159@gmail.com`
-- Also a self-taught physics enthusiast — relativity & quantum mechanics.
+- 🪐 Also a self-taught physics enthusiast — relativity & quantum mechanics.
 
 ---
 
