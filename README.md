@@ -96,6 +96,22 @@ Self-healing ASGI process manager for cPanel.
 
 ---
 
+### 🟢 Dot — Privacy Indicator for Linux
+System tray indicator that shows when apps use your microphone or camera.  
+**Real-time • Notifications • CLI • Anti-kill • Secure installation**
+
+[![GitHub](https://img.shields.io/badge/GitHub-dot-181717?style=flat-square&logo=github)](https://github.com/OandONE/dot)
+
+---
+
+### 👁️ Blink — Eye Care Reminder
+Lightweight system tray app reminding developers to blink and rest their eyes.  
+**20-20-20 Rule • Configurable • GTK3 + AppIndicator**
+
+[![GitHub](https://img.shields.io/badge/GitHub-blink-181717?style=flat-square&logo=github)](https://github.com/OandONE/blink)
+
+---
+
 ### 💻 ParsSource
 Personal website & blog.
 [parssource.ir](https://parssource.ir) | [blog.parssource.ir](https://blog.parssource.ir)
