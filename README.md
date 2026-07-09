@@ -20,11 +20,11 @@ Backend Developer focused on **Python** and **C# ASP.NET Core**.
 Creator of open-source bot frameworks.  
 Building fast, lightweight, and scalable tools.
 
-- 🔭 Currently working on: **Fast Rub**, **Fast Tel**
-- 🌱 Learning: EF Core, Blazor, Java
+- 🔭 Currently working on: **Fast Rub**, **Fast Tel**, **Dot**, **SharpThon**
+- 🌱 Learning: EF Core, Blazor, Java, Kotlin
 - 📝 Blog: [blog.parssource.ir](https://blog.parssource.ir)
 - 📫 Contact: `mohamadhosein159159@gmail.com`
-- 🪐 Also a self-taught physics enthusiast — relativity & quantum mechanics.
+- 🪐 Also a self-taught physics enthusiast — relativity & quantum mechanics. I build conceptual models to understand spacetime and gravity better.
 
 ---
 
@@ -38,6 +38,7 @@ Building fast, lightweight, and scalable tools.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![GTK3](https://img.shields.io/badge/GTK3-7FE719?style=for-the-badge&logo=gtk&logoColor=black)
 
 ### Platforms
 
@@ -80,27 +81,19 @@ The most powerful Rubika group management bot ...
 
 ---
 
-### 🖥️ CronShell
-Hidden terminal for shared hosts. No SSH needed.  
-**WebSocket • Flask • FastAPI • cPanel compatible**
-
-[![GitHub](https://img.shields.io/badge/GitHub-cron_shell-181717?style=flat-square&logo=github)](https://github.com/OandONE/cron_shell)
-
----
-
-### 🛡️ FastKeep
-Self-healing ASGI process manager for cPanel.  
-**Keeps FastAPI/Uvicorn alive. Max 1 min downtime.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-FastKeep-181717?style=flat-square&logo=github)](https://github.com/OandONE/FastKeep)
-
----
-
 ### 🟢 Dot — Privacy Indicator for Linux
 System tray indicator that shows when apps use your microphone or camera.  
 **Real-time • Notifications • CLI • Anti-kill • Secure installation**
 
 [![GitHub](https://img.shields.io/badge/GitHub-dot-181717?style=flat-square&logo=github)](https://github.com/OandONE/dot)
+
+---
+
+### ⚡ SharpThon — Python-like language that transpiles to C#
+Write Python with braces, semicolons, and strong typing — 16x faster.  
+**Sprache parser • ASP.NET Core ready • MIT license**
+
+[![GitHub](https://img.shields.io/badge/GitHub-SharpThon-9B4F96?style=flat-square&logo=github)](https://github.com/OandONE/SharpThon)
 
 ---
 
@@ -136,7 +129,8 @@ Personal website & blog.
 - PyPI: [pypi.org/user/zere_one](https://pypi.org/user/zere_one/)
 - Blog: [blog.parssource.ir](https://blog.parssource.ir)
 - Rubika Channel: `@Fast_Rub`
-- Telegram & Rubika: `@O_and_ONE_01`
+- Telegram: [@O_and_ONE_01](https://t.me/O_and_ONE_01)
+- Rubika: [@O_and_ONE_01](https://rubika.ir/O_and_ONE_01)
 
 ---
 
