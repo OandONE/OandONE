@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://github.com/OandONE/fast_rub"><img src="https://img.shields.io/badge/Fast_Rub-Rubika_Framework-blue?style=flat-square"></a>
   <a href="https://github.com/OandONE/fast_tel"><img src="https://img.shields.io/badge/Fast_Tel-Telegram_Framework-blue?style=flat-square"></a>
+  <a href="https://github.com/OandONE/waitmanager-web"><img src="https://img.shields.io/badge/WaitManager_Web-Flask_|_FastAPI_|_Django-8A2BE2?style=flat-square"></a>
   <a href="https://blog.parssource.ir"><img src="https://img.shields.io/badge/Blog-ParsSource-orange?style=flat-square"></a>
   <a href="https://pypi.org/user/zere_one/"><img src="https://img.shields.io/badge/PyPI-OandONE-3776AB?style=flat-square&logo=pypi"></a>
 </p>
@@ -20,7 +21,7 @@ Backend Developer focused on **Python** and **C# ASP.NET Core**.
 Creator of open-source bot frameworks.  
 Building fast, lightweight, and scalable tools.
 
-- 🔭 Currently working on: **Fast Rub**, **Fast Tel**, **Dot**, **SharpThon**
+- 🔭 Currently working on: **Fast Rub**, **Fast Tel**, **Dot**, **SharpThon**, **WaitManager-Web**
 - 🌱 Learning: EF Core, Blazor, Java, Kotlin
 - 📝 Blog: [blog.parssource.ir](https://blog.parssource.ir)
 - 📫 Contact: `mohamadhosein159159@gmail.com`
@@ -73,6 +74,15 @@ The fastest Telegram bot framework with WaitManager.
 **Same power as Fast Rub, for Telegram.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-fast_tel-181717?style=flat-square&logo=github)](https://github.com/OandONE/fast_tel)
+
+---
+
+### ⏱️ WaitManager-Web
+Intelligent rate limiting for Flask, FastAPI, and Django.  
+**Per-channel tracking • Sleep callback • Thread-safe • Zero dependencies**
+
+[![GitHub](https://img.shields.io/badge/GitHub-waitmanager_web-181717?style=flat-square&logo=github)](https://github.com/OandONE/waitmanager-web)
+[![PyPI](https://img.shields.io/badge/PyPI-waitmanager_web-3776AB?style=flat-square&logo=pypi)](https://pypi.org/project/waitmanager-web/)
 
 ---
 
