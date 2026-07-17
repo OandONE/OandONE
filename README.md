@@ -116,8 +116,7 @@ Lightweight system tray app reminding developers to blink and rest their eyes.
 ---
 
 ### 💻 ParsSource
-Personal website & blog.
-[parssource.ir](https://parssource.ir) | [blog.parssource.ir](https://blog.parssource.ir)
+Personal website & [parssource.ir](https://parssource.ir) | [blog.parssource.ir](https://blog.parssource.ir)
 
 ---
 
@@ -138,7 +137,7 @@ Personal website & blog.
 - Email: `mohamadhosein159159@gmail.com`
 - PyPI: [pypi.org/user/zere_one](https://pypi.org/user/zere_one/)
 - Blog: [blog.parssource.ir](https://blog.parssource.ir)
-- Rubika Channel: `@Fast_Rub`
+- Telegram Channel: [@Zere_One_Thinking](https://t.me/Zere_One_Thinking)
 - Telegram: [@O_and_ONE_01](https://t.me/O_and_ONE_01)
 - Rubika: [@O_and_ONE_01](https://rubika.ir/O_and_ONE_01)
 
