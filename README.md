@@ -20,7 +20,7 @@
 Backend Developer focused on **Python**, **C#**.
 
 - 🔭 Currently working on: **Fast Rub**, **Fast Tel**, **Dot**, **SharpThon**
-- 🌱 Learning: EF Core, Blazor, Java, Kotlin
+- 🌱 Learning: Blazor, Java
 - 📝 Blog: [blog.parssource.ir](https://blog.parssource.ir)
 - 📫 Contact: `mohamadhosein159159@gmail.com`
 - 🪐 Also a self-taught physics enthusiast — relativity & quantum mechanics. I build conceptual models to understand spacetime and gravity better.
