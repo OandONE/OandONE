@@ -4,11 +4,11 @@
 
 <h1 align="center">Seyyed Mohamad Hosein Moosavi Raja</h1>
 <h3 align="center">OandONE • 01 • Zere_One</h3>
-
 <p align="center">
   <a href="https://github.com/OandONE/fast_rub"><img src="https://img.shields.io/badge/Fast_Rub-Rubika_Framework-blue?style=flat-square"></a>
   <a href="https://github.com/OandONE/fast_tel"><img src="https://img.shields.io/badge/Fast_Tel-Telegram_Framework-blue?style=flat-square"></a>
-  <a href="https://github.com/OandONE/waitmanager-web"><img src="https://img.shields.io/badge/WaitManager_Web-Flask_|_FastAPI_|_Django-8A2BE2?style=flat-square"></a>
+  <a href="https://github.com/OandONE/SharpThon"><img src="https://img.shields.io/badge/SharpThon-Python--like_Language_to_C%23-purple?style=flat-square"></a>
+  <a href="https://github.com/OandONE/dot"><img src="https://img.shields.io/badge/Dot-Privacy_Indicator_Linux-green?style=flat-square"></a>
   <a href="https://blog.parssource.ir"><img src="https://img.shields.io/badge/Blog-ParsSource-orange?style=flat-square"></a>
   <a href="https://pypi.org/user/zere_one/"><img src="https://img.shields.io/badge/PyPI-OandONE-3776AB?style=flat-square&logo=pypi"></a>
 </p>
@@ -41,15 +41,6 @@ Building fast, lightweight, and scalable tools.
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![GTK3](https://img.shields.io/badge/GTK3-7FE719?style=for-the-badge&logo=gtk&logoColor=black)
 
-### Platforms
-
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Rubika](https://img.shields.io/badge/Rubika-8A2BE2?style=for-the-badge)
-![Soroush](https://img.shields.io/badge/Soroush-4A90D9?style=for-the-badge)
-![Bale](https://img.shields.io/badge/Bale-00B894?style=for-the-badge)
-![Eitaa](https://img.shields.io/badge/Eitaa-FF5900?style=for-the-badge)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
 ### Tools & Other
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -69,28 +60,6 @@ The fastest Rubika bot framework for Python.
 
 ---
 
-### ⚡ Fast Tel *(coming soon)*
-The fastest Telegram bot framework with WaitManager.  
-**Same power as Fast Rub, for Telegram.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-fast_tel-181717?style=flat-square&logo=github)](https://github.com/OandONE/fast_tel)
-
----
-
-### ⏱️ WaitManager-Web
-Intelligent rate limiting for Flask, FastAPI, and Django.  
-**Per-channel tracking • Sleep callback • Thread-safe • Zero dependencies**
-
-[![GitHub](https://img.shields.io/badge/GitHub-waitmanager_web-181717?style=flat-square&logo=github)](https://github.com/OandONE/waitmanager-web)
-[![PyPI](https://img.shields.io/badge/PyPI-waitmanager_web-3776AB?style=flat-square&logo=pypi)](https://pypi.org/project/waitmanager-web/)
-
----
-
-### 🛡️ Gard Bot
-The most powerful Rubika group management bot ...
-
----
-
 ### 🟢 Dot — Privacy Indicator for Linux
 System tray indicator that shows when apps use your microphone or camera.  
 **Real-time • Notifications • CLI • Anti-kill • Secure installation**
@@ -107,11 +76,11 @@ Write Python with braces, semicolons, and strong typing — 16x faster.
 
 ---
 
-### 👁️ Blink — Eye Care Reminder
-Lightweight system tray app reminding developers to blink and rest their eyes.  
-**20-20-20 Rule • Configurable • GTK3 + AppIndicator**
+### ⚡ Fast Tel *(coming soon)*
+The fastest Telegram bot framework with WaitManager.  
+**Same power as Fast Rub, for Telegram.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-blink-181717?style=flat-square&logo=github)](https://github.com/OandONE/blink)
+[![GitHub](https://img.shields.io/badge/GitHub-fast_tel-181717?style=flat-square&logo=github)](https://github.com/OandONE/fast_tel)
 
 ---
 
