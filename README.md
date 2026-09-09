@@ -19,8 +19,8 @@
 
 Backend Developer focused on **Python**, **C#**.
 
-- 🔭 Currently working on: **Fast Rub**, **Fast Tel**, **Dot**, **SharpThon**
-- 🌱 Learning: Blazor, Java
+- 🔭 Currently working on: **Fast Rub**, **Fast Tel**, **Dot**, **SharpThon**, **IfCrypt**
+- 🌱 Learning: Blazor(.Net), C
 - 📝 Blog: [blog.parssource.ir](https://blog.parssource.ir)
 - 📫 Contact: `mohamadhosein159159@gmail.com`
 - 🪐 Also a self-taught physics enthusiast — relativity & quantum mechanics. I build conceptual models to understand spacetime and gravity better.
@@ -80,6 +80,14 @@ Write Python with braces, semicolons, and strong typing — 16x faster.
 
 ---
 
+### 🔐 IfCrypt — Multi-view encrypted containers
+Different passwords. Different encrypted views. One container.  
+**AES-256-GCM • Argon2id • HKDF • Python**
+
+[![GitHub](https://img.shields.io/badge/GitHub-IfCrypt-181717?style=flat-square&logo=github)](https://github.com/OandONE/IfCrypt)
+
+---
+
 ### ⚡ Fast Tel *(coming soon)*
 The fastest Telegram bot framework with WaitManager.  
 **Same power as Fast Rub, for Telegram.**
@@ -112,7 +120,6 @@ Personal website & [parssource.ir](https://parssource.ir) | [blog.parssource.ir]
 - Blog: [blog.parssource.ir](https://blog.parssource.ir)
 - Telegram Channel: [@Zere_One_Thinking](https://t.me/Zere_One_Thinking)
 - Telegram: [@O_and_ONE_01](https://t.me/O_and_ONE_01)
-- Rubika: [@O_and_ONE_01](https://rubika.ir/O_and_ONE_01)
 
 ---
 
