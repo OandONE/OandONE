@@ -23,7 +23,7 @@ Backend Developer focused on **Python**, **C#**.
 - 🌱 Learning: Blazor(.Net), C
 - 📝 Blog: [blog.parssource.ir](https://blog.parssource.ir)
 - 📫 Contact: `mohamadhosein159159@gmail.com`
-- 🪐 Also a self-taught physics enthusiast — relativity & quantum mechanics. I build conceptual models to understand spacetime and gravity better.
+- 🪐 Also a self-taught physics enthusiast - relativity & quantum mechanics.
 
 ---
 
@@ -64,7 +64,7 @@ The fastest Rubika bot framework for Python.
 
 ---
 
-### 🟢 Dot — Privacy Indicator for Linux
+### 🟢 Dot - Privacy Indicator for Linux
 System tray indicator that shows when apps use your microphone or camera.  
 **Real-time • Notifications • CLI • Anti-kill • Secure installation**
 
@@ -72,15 +72,15 @@ System tray indicator that shows when apps use your microphone or camera.
 
 ---
 
-### ⚡ SharpThon — Python-like language that transpiles to C#
-Write Python with braces, semicolons, and strong typing — 16x faster.  
+### ⚡ SharpThon - Python-like language that transpiles to C#
+Write Python with braces, semicolons, and strong typing - 16x faster.  
 **Sprache parser • ASP.NET Core ready • MIT license**
 
 [![GitHub](https://img.shields.io/badge/GitHub-SharpThon-9B4F96?style=flat-square&logo=github)](https://github.com/OandONE/SharpThon)
 
 ---
 
-### 🔐 IfCrypt — Multi-view encrypted containers
+### 🔐 IfCrypt - Multi-view encrypted containers
 Different passwords. Different encrypted views. One container.  
 **AES-256-GCM • Argon2id • HKDF • Python**
 
@@ -107,8 +107,8 @@ Personal website & [parssource.ir](https://parssource.ir) | [blog.parssource.ir]
 > Then share them so others don't suffer."  
 > "Every expert was once a beginner ..."
 
-- Fast comes first — both in speed and development
-- Minimal dependencies — less is more
+- Fast comes first - both in speed and development
+- Minimal dependencies - less is more
 - Open source, MIT licensed
 
 ---
